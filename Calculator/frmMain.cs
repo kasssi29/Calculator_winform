@@ -138,10 +138,6 @@ namespace Calculator
         {
             Application.Exit();
         }
-        // this is test of pr
-        private void frmMain_Load(object sender, EventArgs e)
-        {
 
-        }
     }
 }
